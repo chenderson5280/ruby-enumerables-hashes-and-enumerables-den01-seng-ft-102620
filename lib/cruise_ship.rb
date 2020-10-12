@@ -12,4 +12,5 @@ def select_winner(passengers)
     if room == suite_a
       puts name
     end
+  end
 end
